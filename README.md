@@ -1,2 +1,2 @@
 # dXp
-Decentralize eXchange Portable
+Decentralize eXperience
